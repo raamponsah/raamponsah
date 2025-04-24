@@ -22,7 +22,7 @@
 - 🧭 Exploring the intersection of **AI** and **real-world impact**
 - 🌱 Constantly evolving—**currently mastering Async Python & Django AI**
 - 🧩 Helping others build—**mentoring devs, contributing to open source**
-- 📫 Connect with me: [raphael@example.com](mailto:raphael@example.com)
+- 📫 Connect with me: [raphael@example.com](mailto:raphaelkofiamponsah@gmail.com)
 
 ---
 
@@ -52,16 +52,16 @@
 - 💬 **ConvoPilot** – A Streamlit → Taipy migration for intelligent chatbot UX.
 - ✨ **PromoPulse** – A PocketBase x Next.js app for personalized promo code launches.
 
-> Want to collaborate? [Shoot me a message](mailto:raphael@example.com). Let’s build something stellar.
+> Want to collaborate? [Shoot me a message](mailto:raphaelkofiamponsah@gmail.com). Let’s build something stellar.
 
 ---
 
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/raphaelamponsah"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!--   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
+<!--   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /></a> -->
 </p>
 
 ---
