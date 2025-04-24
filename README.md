@@ -22,7 +22,7 @@
 - 🧭 Exploring the intersection of **AI** and **real-world impact**
 - 🌱 Constantly evolving—**currently mastering Async Python & Django AI**
 - 🧩 Helping others build—**mentoring devs, contributing to open source**
-- 📫 Connect with me: [raphael@example.com](mailto:raphaelkofiamponsah@gmail.com)
+- 📫 Connect with me: [raphaelkofiamponsah@gmail.com](mailto:raphaelkofiamponsah@gmail.com)
 
 ---
 
